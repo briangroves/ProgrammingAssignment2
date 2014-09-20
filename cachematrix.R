@@ -5,8 +5,8 @@
 ##
 ## Brian Groves, September 20th, 2014.
 
-## This function creates a list in which we can store the value of the vector and 
-## also its matrix.
+## This function creates a list in which we can store the value of the matrix and 
+## also its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
